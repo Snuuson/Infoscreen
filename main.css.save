@@ -1,0 +1,95 @@
+	#masterDiv{
+		margin:auto;
+		left:25%;
+		position:absolute;
+		width:60%;
+		height:200%;
+		top:1%;
+
+		
+	}
+	div{	
+		border:1px solid black;
+		margin-top:10px;
+		font-family: "Times New Roman", Times, serif;
+	}
+	#header{
+		font-size:70px;
+		text-align:center;
+		background:#a0a09a;
+		color:#fabf8f;
+		width:98%;
+		margin:auto;
+	}
+	#lineDiv{
+		
+		margin:5px;
+				
+	}
+	.line{
+		position:relative;
+		margin:auto;
+		margin-top:20px;
+		text-align:center;
+		width:90%;
+		font-size:20px;
+	}
+	table {
+	    margin-top:60px;	
+	    border-collapse: collapse;
+	    border-spacing: 0;
+		margin-left: auto;
+		margin-right: auto;
+		width:95%;
+		
+	}
+	td{
+		border:1px solid grey;
+		text-align:center;
+		font-size:10px;
+		
+	}
+	.bigRow{
+		height:120px;
+	}
+	#tableDiv{
+		margin-top:15px;
+	}
+	.zeiten{
+		font-size:30px;
+	}
+	.singleRow{
+		font-size:30;
+		font-weight:bold;
+		color:#fabf8f;
+		background:#a0a09a;
+	}
+	.grey{
+		background:grey;
+	}
+	#sign{
+		font-weight:bold;
+		background:green;
+		margin:auto;
+		margin-top:120px;
+		font-size:50px;
+		height:90px;
+		line-height:90px;
+		text-align:center;
+		width: 100%;
+	}
+	.buttonDiv{
+		
+	}
+	#innerButtonDiv{
+		position:fixed;
+		top:10px;
+		left:10px;
+		text-align:center;
+		
+		margin:auto;
+	}
+	#saveButton{
+	width:120px;
+	height:60px;
+	}
